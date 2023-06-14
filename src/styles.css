@@ -244,6 +244,7 @@ form textarea {
   outline: none;
   background-color: rgb(36, 32, 23);
   font-size: 16px;
+  color: white;
 }
 
 form button {
