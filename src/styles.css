@@ -108,21 +108,17 @@ p {
 }
 
 .button {
-  width: 160px;
+  width: 150px;
   height: 40px;
   padding-top: 5px;
   margin: auto;
   margin-top: 20px;
   border-radius: 30px;
-  background-color: coral;
+  background-color: rgb(156, 42, 0);
   text-align: center;
-  font-size: 30px;
+  font-size: 18px;
+  line-height: 35px;
   cursor: pointer;
-}
-
-/*Button change on hover */
-.button:hover {
-  background-color: #ef744b;
 }
 
 /*Button change on click */
@@ -256,6 +252,7 @@ form button {
   outline: none;
   background-color: rgb(156, 42, 0);
   font-size: 18px;
+  color: rgb(155, 195, 191);;
   cursor: pointer;
 }
 
